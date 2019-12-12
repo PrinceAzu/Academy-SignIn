@@ -12,3 +12,12 @@ body {
 .navbar-content li {
     font-weight: 700;
 }
+
+.card {
+    width: 300px;
+    display: inline-block;
+}
+
+.card-img-top {
+    width: 100%;
+}
