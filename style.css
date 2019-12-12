@@ -2,9 +2,10 @@
     list-style: none;
 }
 body {
-    background-image: url(Bench-Background-15-2560x1920.jpg);
-    background-position: 50%;
+    background-image: url(./12676.jpg);
+    /* background-position: 50%; */
     background-repeat: no-repeat;
+    /* background-size: cover; */
 }
 .bg-color {
     background: rgba(253, 245, 230, 0.4);
@@ -15,7 +16,6 @@ body {
 
 .card {
     width: 300px;
-    display: inline-block;
 }
 
 .card-img-top {
